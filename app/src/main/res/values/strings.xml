@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="to_do_list_app">To Do List App</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="task">Task</string>
+    <string name="scroll_view">Scroll view</string>
+    <string name="name">Name</string>
+    <string name="add_description">Add description</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="task_is_deleted">Task is deleted</string>
+    <string name="task_is_edited">Task is edited</string>
+    <string name="task_is_added">Task is added</string>
+    <string name="task_name_can_t_be_empty">Task name can`t be empty</string>
+</resources>
